@@ -59,7 +59,7 @@ Open phpMyAdmin (http://localhost/phpmyadmin/).
 
 Create a new database (example: pet_adoption).
 
-Import the provided home4paws.sql file.
+Import the provided home4paws_db.sql file.
 
 Project Setup:
 
